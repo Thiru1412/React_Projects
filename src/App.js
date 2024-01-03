@@ -25,7 +25,7 @@ function App() {
     }
     fetchData();
   },[]);
-
+  
   return (
     <BrowserRouter>
       <Routes>
