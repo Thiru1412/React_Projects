@@ -1,0 +1,40 @@
+header{
+  display: flex;
+  justify-content: space-between;
+  background-color: #131921;
+  color:white;
+}
+
+
+#site-name{
+  width: 300px;
+}
+
+
+h2{
+  text-align: center;
+}
+
+
+section{
+  display: flex;
+  height:500px;
+}
+
+aside{
+  width: 200px;
+  background-color: #febd69;
+}
+
+
+
+.categories{
+  height: 25px;
+  font-weight: 500;
+  padding: 5px 60px;
+  cursor: pointer;
+}
+
+.categories:hover{
+  background-color:#ffac1c;
+}
