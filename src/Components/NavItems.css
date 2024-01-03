@@ -1,0 +1,22 @@
+.nav-items{
+    display: flex;
+}
+
+.item{
+    padding:30px 0px;
+    margin:0px 30px;
+    width:90px;
+    height: 20px;
+    text-align: center;
+    font-weight: 500;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+h2{
+    height: 40px;
+}
+
